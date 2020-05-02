@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-config",
+  "version": "0.0.1",
+  "description": "Aproximation to bootstrap and other tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenchy/config-bootsrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "gulp",
+    "config"
+  ],
+  "author": "Zenchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zenchy/config-bootsrap/issues"
+  },
+  "homepage": "https://github.com/Zenchy/config-bootsrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
